@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\bin\Debug\net8.0\classeAbstrata.exe
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\bin\Debug\net8.0\classeAbstrata.deps.json
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\bin\Debug\net8.0\classeAbstrata.runtimeconfig.json
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\bin\Debug\net8.0\classeAbstrata.dll
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\bin\Debug\net8.0\classeAbstrata.pdb
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.AssemblyInfo.cs
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.sourcelink.json
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.dll
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\refint\classeAbstrata.dll
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.pdb
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\classeAbstrata.genruntimeconfig.cache
+C:\Users\Admin\Documents\dotnet\C-from-Dio\classeAbstrata\obj\Debug\net8.0\ref\classeAbstrata.dll
