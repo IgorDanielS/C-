@@ -10,8 +10,8 @@ namespace poo.Models
     
         public string Nome { get; set; }
         public int Idade { get; set; }
-        
-        public void Apresentar()
+        //A palavra chave "VIRTUAL" serve para permitir a sobrescrição em outras funcoes (poliformismo)
+        public virtual void Apresentar()
         {
             Console.Write($"Meu nome é {Nome} e eu tenho {Idade} anos. ");
         }
