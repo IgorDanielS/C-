@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\dotnet\\poo\\poo.csproj": {}
+    "C:\\Users\\Admin\\Documents\\dotnet\\C-from-Dio\\pooLearning\\poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\dotnet\\poo\\poo.csproj": {
+    "C:\\Users\\Admin\\Documents\\dotnet\\C-from-Dio\\pooLearning\\poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\dotnet\\poo\\poo.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\dotnet\\C-from-Dio\\pooLearning\\poo.csproj",
         "projectName": "poo",
-        "projectPath": "C:\\Users\\Admin\\Documents\\dotnet\\poo\\poo.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\dotnet\\C-from-Dio\\pooLearning\\poo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\dotnet\\poo\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\dotnet\\C-from-Dio\\pooLearning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
