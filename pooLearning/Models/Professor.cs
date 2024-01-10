@@ -6,11 +6,12 @@ using poo.Models;
 
 namespace pooLearning.Models
 {
+    
     public class Professor : Pessoa
     {
         public Professor()
         {
-            
+
         }
         public Professor(string nome) : base(nome)
         {

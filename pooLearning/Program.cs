@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using pooLearning.Models;
 using poo.Models;
+using pooLearning.Interfaces;
 //aplicação de Abstração, ou seja, pegar dados mais necessarios, específicos.
 // Pessoa p1 = new Pessoa();
 // p1.Nome = "José";
@@ -34,4 +35,17 @@ using poo.Models;
 // Corrente co1 = new Corrente();
 // co1.Creditar(200);
 // co1.ExibirSaldo();
+
+
+
+
+
+
+//USANDO INTERFACES:
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(2,3));
+
+
+
+
 
