@@ -8,6 +8,14 @@ namespace pooLearning.Models
 {
     public class Professor : Pessoa
     {
+        public Professor()
+        {
+            
+        }
+        public Professor(string nome) : base(nome)
+        {
+            
+        }
         // : significa q uma classe está herdando de outra, nesse caso Aluno herda propriedades de Pessoa
         public decimal Salario { get; set; }
         //o OVERRIDE serve pra sobrescrever uma funcao (poliformismo)

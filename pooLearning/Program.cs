@@ -31,6 +31,7 @@ using poo.Models;
 
 //CLASSE ABSTRATA: só serve para ter seus atributos herdados, não pode ser instanciada
 // a instancia deve ser colocada na classe filha
-Corrente co1 = new Corrente();
-co1.Creditar(200);
-co1.ExibirSaldo();
+// Corrente co1 = new Corrente();
+// co1.Creditar(200);
+// co1.ExibirSaldo();
+
