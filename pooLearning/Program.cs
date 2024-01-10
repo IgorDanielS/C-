@@ -14,16 +14,23 @@ using poo.Models;
 
 
 //Herança: uma classe herda propriedades de outra classe
-Aluno a1 = new Aluno();
-a1.Nome = "Lucio";
-a1.Idade = 16;
-a1.Nota = 6.10;
-a1.Apresentar();
+// Aluno a1 = new Aluno();
+// a1.Nome = "Lucio";
+// a1.Idade = 16;
+// a1.Nota = 6.10;
+// a1.Apresentar();
 
 //Polimorfismo: metodos que são alterados pra uma nova situação, nesse caso, Apresentar era de forma
 //simples, apresentando o nome e a idade da Pessoa, agora, o Apresentar diz o nome e o salário do professor em questão.
-Professor pr1 = new Professor();
-pr1.Nome = "Robson";
-pr1.Idade = 43;
-pr1.Salario = 5000;
-pr1.Apresentar();
+// Professor pr1 = new Professor();
+// pr1.Nome = "Robson";
+// pr1.Idade = 43;
+// pr1.Salario = 5000;
+// pr1.Apresentar();
+
+
+//CLASSE ABSTRATA: só serve para ter seus atributos herdados, não pode ser instanciada
+// a instancia deve ser colocada na classe filha
+Corrente co1 = new Corrente();
+co1.Creditar(200);
+co1.ExibirSaldo();
